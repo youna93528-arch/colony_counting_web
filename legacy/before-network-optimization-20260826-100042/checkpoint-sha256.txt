@@ -1,0 +1,6 @@
+﻿
+Algorithm       Hash                                                                   Path                                                                                                 
+---------       ----                                                                   ----                                                                                                 
+SHA256          0E8790CC7CF5895480FCBC4D641EAE108FA52F7EAEEF3DAE8107E515E7D94A4A       C:\workspace\colony_counting_web\sam3\sam3\logs\checkpoints\checkpoint.pt                            
+
+

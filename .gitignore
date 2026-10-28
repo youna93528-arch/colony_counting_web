@@ -1,0 +1,39 @@
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.codex_tmp/
+.openai/
+node_modules/
+.next/
+.vinext/
+.wrangler/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Model weights and archives (stored separately)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.zip
+
+# Generated runtime data
+/runtime/
+logs/
+runs/
+*.log
+Thumbs.db
+.DS_Store

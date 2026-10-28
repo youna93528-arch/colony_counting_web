@@ -1,0 +1,9 @@
+﻿
+Test TextCount VisualCount BoxCount
+---- --------- ----------- --------
+   1        58           1        1
+   2        58           1        1
+   3        58           1        1
+
+
+

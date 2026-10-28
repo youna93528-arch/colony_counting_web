@@ -1,0 +1,33 @@
+{
+  "expected": {
+    "text_count": 58,
+    "visual_count": 1,
+    "box_count": 1,
+    "box": {
+      "x1": 188.33,
+      "y1": 555.07,
+      "x2": 258.33,
+      "y2": 614.07
+    }
+  },
+  "results": [
+    {
+      "test": 1,
+      "text_count": 58,
+      "visual_count": 1,
+      "box_count": 1
+    },
+    {
+      "test": 2,
+      "text_count": 58,
+      "visual_count": 1,
+      "box_count": 1
+    },
+    {
+      "test": 3,
+      "text_count": 58,
+      "visual_count": 1,
+      "box_count": 1
+    }
+  ]
+}
